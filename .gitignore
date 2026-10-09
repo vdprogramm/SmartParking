@@ -2,7 +2,11 @@
 __pycache__/
 *.pyc
 .streamlit/secrets.toml
-uploads/*
-results/*
+datasets/
+uploads/
+results/
 models/*.pt
 models/**/*.pt
+*.db
+*.sqlite3
+test_report.csv
